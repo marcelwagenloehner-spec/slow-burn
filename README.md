@@ -1,21 +1,16 @@
 # Slow Burn
 
-*Bewusst anders als alle bisherigen Songs: aktueller Underground-Tech-House, wie er gerade in kleinen Clubs und auf Afterhours läuft. Keine Pop-Hooks, kein Chor, keine Claps, keine Gang-Shouts, kein großer Snare-Roll-Drop. Eine einzige Stimme: weiblich, tief, rauchig, eher gesprochen als gesungen. Der Text ist unterschwellig flirty bis scharf, alles eigene Zeilen.*
+*Komplett neue Version. Aktueller Club-Tech-House, wie er 2026 in Clubs und auf Festivals läuft: treibender Groove, kurze Vocal-Zeilen, die sich in den Kopf bohren, Bass und Stimme spielen sich die Bälle zu. Keine Pop-Hooks, kein Chor, keine Claps, keine Gang-Shouts. Eine einzige Frauenstimme, rauchig und tief. Der Text flirtet unterschwellig und wird nach hinten immer schärfer. Alles eigene Zeilen.*
 
 ---
 
-## 1. Was diesen Song anders macht
+## 1. Idee
 
-| | Bisherige Songs | **Slow Burn** |
-|---|---|---|
-| Genre | Tech House mit Pop/Dance-Pop, Bounce, Future Bass | **Underground/Minimal Tech House, Afterhours-Groove** |
-| Stimme | Pop-Lead, Chöre, Crowd-Shouts | **eine rauchige Frauenstimme, halb gesprochen, ganz nah am Mikro** |
-| Hook | Vocal-Chop als Melodie, Mitsing-Refrain | **kein Refrain zum Mitsingen, nur ein wiederkehrender Satz, der immer tiefer gefiltert wird** |
-| Drop | Snare-Roll, Pause, Knall | **kein Knall: der Bass kommt einfach zurück und rollt weiter** |
-| Percussion | Claps auf 2 und 4 | **keine Claps, stattdessen trockene Rimshots, Shaker, Ride-Becken** |
-| Akkorde | 4-Akkord-Loops | **praktisch ein Akkord: ein Orgel-Stab, der im ganzen Track kaum wechselt** |
+Sie steht nicht an der Bar und schaut zu, sie ist mitten auf der Tanzfläche und hat dich längst im Griff. Sie sagt dir nicht, was sie will, sie sagt dir, was du tun sollst: langsam machen. Jede Zeile ist eine Anweisung, und jede ist doppeldeutig.
 
-**Eigener Hook-Trick: das Feuerzeug.** Vor jeder Hook-Zeile hört man ein trockenes Feuerzeug-Klicken und ein leises Ausatmen. Im Laufe des Tracks wird das Klicken selbst zum Percussion-Element (auf der Offbeat-16tel vor der Hi-Hat). Am Ende bleibt nur noch das Klicken, der Bass und ihr Atmen.
+**Hook-Trick: "Stop / Don't stop".** Auf dem Wort "stop" bricht der komplette Beat für einen halben Takt weg, man hört nur ihre Stimme im Raum. Auf "don't" knallt alles wieder rein. Das passiert in jeder Hook zweimal, und im letzten Groove sagt sie "stop" und der Beat bleibt aus, bis sie ganz leise "…don't" haucht.
+
+**Zweiter Trick: Bass antwortet der Stimme.** Nach jeder kurzen Vocal-Zeile spielt der Bass eine kleine Zweiton-Figur, als würde er antworten. Kein Chor nötig, das Frage-Antwort-Spiel läuft zwischen ihr und dem Bass.
 
 ---
 
@@ -23,209 +18,142 @@
 
 | | |
 |---|---|
-| **Tempo** | **128 BPM** (das Standard-Tempo im aktuellen Underground-Tech-House: schnell genug zum Durchtanzen, langsam genug, dass der Groove "schiebt" statt hetzt) |
-| **Tonart** | **D-Phrygisch** (D – E♭ – F – G – A – B♭ – C). Typisch für dunklen Club-Tech-House: die kleine Sekunde (E♭ über D) klingt verrucht und hypnotisch, und D liegt bequem für eine tiefe, rauchige Altstimme |
-| **Harmonie** | Basston D liegt fast durchgehend. Darüber nur ein Orgel-Stab Dm7, der im Groove-Teil kurz zu E♭maj7 kippt und zurück |
-| **Stimme** | Eine Frau, tief, rauchig, Whiskey-Timbre, Alt-Lage (A2–D4), viel gesprochen, ein paar gesungene Zeilen, kein Backing |
-| **Länge** | Club Edit ca. 3:40 (bewusst länger als die Radio Edits, damit der Groove wirken kann) |
-| **Thema** | Sie steht nachts an der Bar, raucht, beobachtet jemanden. Sie sagt nie direkt, was sie will. Alles ist Andeutung, und genau das macht es scharf |
+| **Tempo** | 130 BPM (aktuelles Peak-Time-Tech-House-Tempo, treibt ohne zu hetzen) |
+| **Tonart** | G-Moll |
+| **Harmonie** | Fast nur Basslinie auf G mit kleiner Terz und Quinte. Im Hook ein dunkler Orgel-Akkord Gm7 auf dem Offbeat, im Breakdown einmal E♭maj7 – F als Lichtblick |
+| **Stimme** | Eine Frau, Alt, rauchig, Whiskey-Timbre, sehr nah am Mikro. Strophen rhythmisch gesprochen, Hook tief gesungen, kein Backing, keine Doppelungen |
+| **Länge** | Club Edit ca. 3:10 |
+| **Stimmung** | Dunkel, sexy, selbstbewusst, Kontrolle statt Sehnsucht |
 
 ---
 
 ## 3. Songtext
 
-**[Intro – nur Kick, Rimshot, Shaker, 8 Takte]**
-*(Feuerzeug klickt. Ausatmen.)*
+**[Intro – Kick, Hi-Hats, rollender Bass, 8 Takte]**
+Slow down.
+*(Bass antwortet)*
+Slow down.
+*(Bass antwortet)*
 
-**[Verse 1 – gesprochen, nah am Mikro]**
-I've been watching you
-from the dark end of the bar.
-You keep looking back
-like you don't know who you are.
-Don't come over yet.
-Let it simmer.
-Let it ache.
-Good things take a while,
-and I don't like it fast… unless I do.
+**[Verse 1 – rhythmisch gesprochen, im Groove]**
+Don't rush the night,
+I don't do fast.
+You want the first move,
+I want the last.
+Hands where I see them,
+eyes on my mouth.
+You're asking questions,
+I'm figuring you out.
 
-**[Hook – halb gesungen, tief]**
-*(Feuerzeug klickt.)*
+**[Pre-Hook – Hi-Hats raus, nur Kick und Stimme]**
+You got that look like you're dangerous.
+Good.
+So am I.
+
+**[Hook – tief gesungen]**
 Be my serotonin,
-be my bad routine.
-Light me up slow,
-somewhere in between.
+hit me nice and slow.
 Be my serotonin,
-keep it underneath.
-Nobody needs to know
-what you do to me.
+don't you let me go.
+Tell me to **stop** —
+*(Beat weg, halber Takt)*
+**don't.**
+*(Beat knallt rein)*
+Tell me to **stop** —
+*(Beat weg)*
+**don't.**
+*(Beat knallt rein)*
 
-**[Groove – Bass rollt rein, 16 Takte, nur Fetzen]**
-*(geflüstert, verteilt, mit Delay)*
-Closer…
-not yet…
-closer…
-mm.
-
-**[Verse 2 – gesprochen, etwas schärfer]**
-You talk with your hands,
-I talk with my eyes.
-You're telling me stories,
-I'm counting the lies.
-Your collar's undone,
-my lipstick's on the glass.
-Ask me what I'm thinking.
-Go on. Ask.
-
-**[Pre-Hook – nur Stimme und Pad, Kick weg, 4 Takte]**
-I don't fall.
-I lean.
-And right now I'm leaning
-your way.
-
-**[Hook]**
-*(Feuerzeug klickt.)*
-Be my serotonin,
-be my bad routine.
-Light me up slow,
-somewhere in between.
-Be my serotonin,
-keep it underneath.
-Nobody needs to know
-what you do to me.
-
-**[Breakdown – ohne Kick, nur Bass-Drone und Atem, 8 Takte]**
-Say my name like a secret.
-Say it lower.
-Lower.
-*(Lachen, ganz kurz, durch die Nase)*
-That's it.
-
-**[Groove 2 – alles zurück, Orgel-Stab kippt zu E♭maj7, 16 Takte]**
-*(tief gefiltert, wiederholt, wie aus dem Nebenraum)*
-Be my serotonin…
-be my serotonin…
-underneath… underneath…
-
-**[Outro – nur Kick, Bass, Feuerzeug-Klicks, 8 Takte]**
-Last call, baby.
-*(Pause)*
-Your place or the dark.
-*(Feuerzeug klickt. Ausatmen. Stille.)*
-
----
-
-## 3b. Songtext – Version 2 (kürzer, schärfer, mehr Club)
-
-*Weniger Geschichte, mehr Wiederholung, wie es im Club-Tech-House üblich ist. Kurze Sätze, die im Groove hängen bleiben. Die Andeutungen sind direkter.*
-
-**[Intro – Kick, Rimshot, Shaker]**
-[lighter click] [exhale]
-Come here…
-no, closer.
-
-**[Verse 1 – gesprochen, tief]**
-Hands on my waist,
-not too fast.
-Taste like trouble,
-built to last.
-Don't say a word,
-don't make a sound.
-I'll tell you when,
-I'll show you how.
-
-**[Hook – halb gesungen]**
-[lighter click]
-Be my serotonin,
-come and get me high.
-Be my serotonin,
-keep me up all night.
-Be my serotonin,
-slow, slow, slow…
-You don't have to ask me,
-baby, I already know.
-
-**[Groove – geflüstert, mit Delay]**
-Slow…
-slow…
-yeah, like that.
-Slow…
-slow…
-don't stop.
-
-**[Verse 2 – gesprochen, schärfer]**
-Lights go low,
-you lose control.
-Bite your lip,
-I bite my own.
-Heart's on fire,
-skin on skin.
-Lock the door,
+**[Groove – 16 Takte, nur Fetzen zwischen dem Bass]**
+Slow burn…
+*(Bass antwortet)*
+slow burn…
+*(Bass antwortet)*
+under my skin…
+*(Bass antwortet)*
 let me in.
 
-**[Pre-Hook – Kick raus, nur Stimme]**
-Tell me what you want.
-*(Pause)*
-Louder.
-*(Pause)*
-Mm. Good.
+**[Verse 2 – gesprochen, schärfer]**
+Lights get low and the bass gets loud,
+I lose my manners in a crowd.
+Your heartbeat's racing, mine is not,
+I like to watch you get this hot.
+One more drink, then one more song,
+I've wanted this all night long.
+You're my favorite bad habit, babe,
+and I don't wanna quit today.
+
+**[Pre-Hook]**
+You got that look like you're dangerous.
+Good.
+So am I.
 
 **[Hook]**
-[lighter click]
 Be my serotonin,
-come and get me high.
+hit me nice and slow.
 Be my serotonin,
-keep me up all night.
-Be my serotonin,
-slow, slow, slow…
-You don't have to ask me,
-baby, I already know.
+don't you let me go.
+Tell me to **stop** —
+*(Beat weg)*
+**don't.**
+*(Beat knallt rein)*
+Tell me to **stop** —
+*(Beat weg)*
+**don't.**
+*(Beat knallt rein)*
 
-**[Breakdown – nur Bass-Drone und Atem]**
-[exhale]
-I like it when you look at me
-like that.
-[soft laugh]
-Do it again.
+**[Breakdown – Kick weg, Orgel E♭maj7 – F, Atmen, 8 Takte]**
+Shh.
+Come here.
+I'm not gonna say it twice…
+*(kurzes Lachen)*
+okay, maybe twice.
+Come here.
 
-**[Groove 2 – Hook tief gefiltert, als Loop]**
+**[Final Groove – alles zurück, Hook gefiltert als Loop]**
 Be my serotonin…
-come and get me high…
-slow, slow, slow…
-don't stop.
+slow burn…
+be my serotonin…
+under my skin…
+Tell me to **stop** —
+*(Beat bleibt aus, 2 Takte nur Atmen)*
+…don't.
+*(alles knallt ein letztes Mal rein)*
 
-**[Outro]**
-Last call.
-Your place.
-Now.
-[lighter click] [exhale]
+**[Outro – ausdünnen bis Kick und Bass]**
+Slow down.
+*(Bass antwortet)*
+Good.
 
 ---
 
-## 4. Aufbau (Club Edit, 128 BPM, ca. 3:40)
+## 4. Aufbau (Club Edit, 130 BPM, ca. 3:10)
 
 | Takte | Teil | Was passiert |
 |---|---|---|
-| 1–8 | Intro | Kick, trockener Rimshot, Shaker, ein Feuerzeug-Klick am Ende |
-| 9–24 | Verse 1 | Bass kommt nach 4 Takten dazu, nur Grundton D, sehr trocken |
-| 25–32 | Hook | Orgel-Stab Dm7 auf dem Offbeat, Ride-Becken setzt ein |
-| 33–48 | Groove | Voller rollender Bass, Flüster-Fetzen mit Ping-Pong-Delay |
-| 49–64 | Verse 2 | Hi-Hats werden offener, Feuerzeug-Klick wird zur 16tel-Percussion |
-| 65–68 | Pre-Hook | Kick raus, nur Pad und Stimme |
-| 69–76 | Hook | Kick einfach wieder da, kein Riser, kein Roll |
-| 77–84 | Breakdown | Nur Bass-Drone auf D, Atmen, kurzes Lachen |
-| 85–100 | Groove 2 | Alles zurück, Stab kippt alle 4 Takte kurz nach E♭maj7, Hook tief gefiltert |
-| 101–108 | Outro | Ausdünnen bis Kick, Bass, Klicks, letzter Satz, Stille |
+| 1–8 | Intro | Kick, Hi-Hats, Bass sofort da, "Slow down" mit Bass-Antwort |
+| 9–16 | Verse 1 | Rhythmisch gesprochen, Shaker und Ride dazu |
+| 17–20 | Pre-Hook | Hi-Hats raus, Spannung nur durch Stimme |
+| 21–28 | Hook | Gm7-Orgel auf dem Offbeat, zweimal "stop" mit Beat-Aussetzer |
+| 29–44 | Groove | Voller Bass, Vocal-Fetzen mit Bass-Antworten |
+| 45–52 | Verse 2 | Bass wird verzerrter, Percussion dichter |
+| 53–56 | Pre-Hook | Wie oben |
+| 57–64 | Hook | Wie oben |
+| 65–72 | Breakdown | Kick weg, einziger Akkordwechsel E♭maj7 – F, ganz nah an der Stimme |
+| 73–88 | Final Groove | Alles zurück, Hook gefiltert, letzter "stop" hält 2 Takte |
+| 89–96 | Outro | Ausdünnen, "Good." als letztes Wort |
 
 ---
 
-## 5. Sound-Design (für Suno-Nachbearbeitung oder DAW)
+## 5. Sound-Design
 
-- **Kick:** trocken, tief, kurz, kein Sub-Boom. Underground-typisch eher "tok" als "boom"
-- **Bass:** rollender Sub-Bass mit leichter Verzerrung, 16tel-Pattern mit Ghost-Notes, kleine Sekunde (E♭) als Spannungston
-- **Percussion:** Rimshot statt Clap, Shaker, Ride, Conga-Loop ganz leise im Hintergrund
-- **Stimme:** sehr nah mikrofoniert (Proximity-Effekt), wenig Hall, kurzes Slapback-Delay, Atem nicht wegschneiden
-- **Signatur:** Feuerzeug-Klick (Zippo oder Einweg) + Ausatmen vor jeder Hook. Im zweiten Groove als Percussion
-- **Keine:** Snare-Rolls, Uplifter, Supersaws, Claps, Chöre, Crowd-Shouts, Pitch-Chops als Melodie
+- **Kick:** Punchy, trocken, mit Druck im Bauch, nicht boomig
+- **Bass:** Rollender, leicht verzerrter Tech-House-Bass auf G, 16tel mit Ghost-Notes. Nach jeder Vocal-Zeile eine kurze Zweiton-Antwort (G–B♭ oder G–F)
+- **Percussion:** Offene Hi-Hats, Shaker, Ride, trockene Rimshots, Conga-Loop. **Keine Claps**
+- **Orgel:** Dunkler, kurzer Gm7-Stab auf dem Offbeat, nur in Hook und Final Groove
+- **Stimme:** Nah mikrofoniert, wenig Hall, kurzes Delay auf Wortenden, Atmen drinlassen
+- **Beat-Aussetzer:** Auf "stop" komplett alles stumm (auch Hall abschneiden), auf "don't" voll rein
+- **Keine:** Chöre, Backing Vocals, Crowd-Shouts, Snare-Rolls, Riser, Supersaws, Pop-Akkordfolgen
 
 ---
 
@@ -234,25 +162,29 @@ Now.
 **Style of Music** (Custom Mode):
 
 ```
-underground tech house, minimal tech house, 128 bpm, D phrygian, dark hypnotic afterhours groove, single smoky female vocal, low husky raspy alto voice, mostly spoken word, close-mic intimate whisper, seductive and teasing, rolling distorted sub bassline, dry punchy kick, rimshots, shakers, ride cymbal, sparse dub organ stab, lighter click sound as percussion, breathy exhale, long groove sections, no big drop, deep club, warehouse at 4am
+tech house, club tech house, 130 bpm, G minor, driving peak time groove, rolling distorted bassline answering the vocal, punchy dry kick, open hi-hats, shakers, rimshots, ride cymbal, dark organ stab on the offbeat, single female vocalist, smoky raspy low alto voice, rhythmic spoken verses, low sultry sung hook, close-mic, seductive and confident, sudden beat stops on the word stop, minimal arrangement, dark sexy club track
 ```
 
-**Exclude Styles** (Feld unter dem Style, falls verfügbar):
+**Exclude Styles:**
 
 ```
-pop, dance pop, choir, backing vocals, gang vocals, crowd shouts, claps, hand claps, male vocals, snare roll, build-up riser, EDM drop, supersaw, radio edit, happy, bright
+pop, dance pop, choir, backing vocals, gang vocals, crowd shouts, claps, hand claps, male vocals, snare roll, riser, EDM drop, supersaw, happy, bright, radio pop
 ```
 
-Falls dein Suno-Account kein "Exclude Styles" hat, hänge an den Style-Prompt an:
+Falls kein "Exclude Styles"-Feld da ist, an den Style anhängen:
 `no pop, no choir, no claps, no backing vocals, no male vocals, no snare roll`
 
-**Lyrics-Feld:** Den kompletten Songtext aus Abschnitt 3 einfügen, inklusive der Tags in eckigen Klammern. Die Regieanweisungen in Klammern und Kursiv (*Feuerzeug klickt*) entweder weglassen oder als `[lighter click]`, `[exhale]`, `[soft laugh]` schreiben, das versteht Suno besser.
+**Lyrics-Feld:** Den Songtext aus Abschnitt 3 einfügen. Die Regieanweisungen für Suno so umschreiben:
+- *(Beat weg)* → `[beat stops]`
+- *(Beat knallt rein)* → `[beat drops back in]`
+- *(Bass antwortet)* → `[bass response]` oder einfach weglassen
+- *(kurzes Lachen)* → `[soft laugh]`
+- Fettdruck entfernen (Suno liest kein Markdown)
 
-**Song-Titel in Suno:** Slow Burn
+**Titel in Suno:** Slow Burn
 
 **Tipps:**
-- Wenn die Stimme zu hell oder zu poppig wird: "deep raspy contralto, smoker's voice" ergänzen und "sung" vermeiden
-- Wenn Suno trotzdem einen großen Drop baut: "continuous groove, no breakdown drop" in den Style schreiben
-- Wenn der Bass zu brav ist: "rolling acid-tinged bassline" probieren
-- Suno-Version v5 oder neuer nehmen, die hält "spoken word" deutlich besser
-- Mehrere Generierungen machen; die besten Takes sind oft die, in denen sie fast nur spricht
+- Wenn die Stimme zu hell wird: "deep husky contralto, smoker's voice" ergänzen
+- Wenn die Beat-Aussetzer nicht kommen: im Lyrics-Feld `[silence]` direkt hinter "stop" schreiben
+- Wenn Suno Claps reinmogelt: "no claps" zusätzlich an den Anfang des Style-Prompts setzen
+- Mehrere Generierungen machen, die Aussetzer gelingen nicht jedes Mal
