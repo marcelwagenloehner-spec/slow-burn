@@ -114,6 +114,93 @@ Your place or the dark.
 
 ---
 
+## 3b. Songtext – Version 2 (kürzer, schärfer, mehr Club)
+
+*Weniger Geschichte, mehr Wiederholung, wie es im Club-Tech-House üblich ist. Kurze Sätze, die im Groove hängen bleiben. Die Andeutungen sind direkter.*
+
+**[Intro – Kick, Rimshot, Shaker]**
+[lighter click] [exhale]
+Come here…
+no, closer.
+
+**[Verse 1 – gesprochen, tief]**
+Hands on my waist,
+not too fast.
+Taste like trouble,
+built to last.
+Don't say a word,
+don't make a sound.
+I'll tell you when,
+I'll show you how.
+
+**[Hook – halb gesungen]**
+[lighter click]
+Be my serotonin,
+come and get me high.
+Be my serotonin,
+keep me up all night.
+Be my serotonin,
+slow, slow, slow…
+You don't have to ask me,
+baby, I already know.
+
+**[Groove – geflüstert, mit Delay]**
+Slow…
+slow…
+yeah, like that.
+Slow…
+slow…
+don't stop.
+
+**[Verse 2 – gesprochen, schärfer]**
+Lights go low,
+you lose control.
+Bite your lip,
+I bite my own.
+Heart's on fire,
+skin on skin.
+Lock the door,
+let me in.
+
+**[Pre-Hook – Kick raus, nur Stimme]**
+Tell me what you want.
+*(Pause)*
+Louder.
+*(Pause)*
+Mm. Good.
+
+**[Hook]**
+[lighter click]
+Be my serotonin,
+come and get me high.
+Be my serotonin,
+keep me up all night.
+Be my serotonin,
+slow, slow, slow…
+You don't have to ask me,
+baby, I already know.
+
+**[Breakdown – nur Bass-Drone und Atem]**
+[exhale]
+I like it when you look at me
+like that.
+[soft laugh]
+Do it again.
+
+**[Groove 2 – Hook tief gefiltert, als Loop]**
+Be my serotonin…
+come and get me high…
+slow, slow, slow…
+don't stop.
+
+**[Outro]**
+Last call.
+Your place.
+Now.
+[lighter click] [exhale]
+
+---
+
 ## 4. Aufbau (Club Edit, 128 BPM, ca. 3:40)
 
 | Takte | Teil | Was passiert |
